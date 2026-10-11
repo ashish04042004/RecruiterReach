@@ -1,0 +1,13 @@
+node_modules/
+client/dist/
+data/
+.env
+.env.*
+!.env.example
+*.log
+*.xlsx
+*.xls
+*.db
+*.db-*
+*.pdf
+*.docx
